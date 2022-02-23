@@ -1,6 +1,6 @@
 # Hi! 👋
 :books: My name is Mohammadamin Lari. I'm an Electrical Engineering student at the Amirkabir University of Technology. <br> <br>
-:computer: Some of my programming skills are: <br>
+:computer: Some of my programming skills are:
 <ul>
   <li> Python
   <li> C++
@@ -14,13 +14,18 @@
   <li> MATLAB
   <li> ARM
   <li> Arduino
-  <li> Raspberry Pi
 </ul>
 
 ## Here are some useful links:
-<ul>
-  <li> <a href='https://www.linkedin.com/in/aminlari/'> LinkedIn
-</ul>
+
+  <img align="left" alt="Amin Lari | LinkedIn" height="25px" src="https://www.pikpng.com/pngl/b/266-2662398_linkedin-logo-png-clipart.png" />
+  <img align="left" alt="Amin Lari | Gmail" height="25px" src="https://mailmeteor.com/logos/assets/PNG/Gmail_Logo_256px.png" />
+  <img align="left" alt="Amin Lari | Researchgate" height="25px" src="https://cdn.freelogovectors.net/wp-content/uploads/2021/02/researchgate-logo-freelogovectors.net_.png" />
+
+[Email]: mohamadamin.lari@gmail.com
+[linkedin]: https://www.linkedin.com/in/aminlari/
+[Researchgate]: https://www.researchgate.net/profile/Mohammadamin-Lari
+
 
 <!--
 **AminLari/AminLari** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
