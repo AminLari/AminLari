@@ -1,5 +1,5 @@
 ### Hi! 👋
-:books: My name is Mohammadamin Lari. I'm an Electrical Engineering student at the Amirkabir University of Technology (Tehran Polytechnic).
+:books: My name is Mohammadamin Lari. I'm an Electrical Engineering student at the Amirkabir University of Technology.
 
 <!--
 **AminLari/AminLari** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
