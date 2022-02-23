@@ -13,15 +13,15 @@
   <li> Python
   <li> C++
   <li> Java
+  <li> MATLAB
+  <li> ARM
+  <li> Arduino
   <li>  Web development 
     <ul>
       <li> HTML5
       <li> CSS3
       <li> JavaScript
     </ul>
-  <li> MATLAB
-  <li> ARM
-  <li> Arduino
 </ul></div>
   <div float="right"><p>&nbsp;<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=AminLari&theme=dark&layout=compact" width="400" /></p></div>
   </div>
