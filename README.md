@@ -1,7 +1,15 @@
 # Hi! 👋
 :books: My name is Mohammadamin Lari. I'm an Electrical Engineering student at the Amirkabir University of Technology. <br> <br>
 :computer: Some of my programming skills are:
-<ul>
+<!DOCTYPE html>
+<html>
+<head>
+</head>
+
+<body>
+  <div>
+<div>
+  <ul>
   <li> Python
   <li> C++
   <li> Java
@@ -14,7 +22,9 @@
   <li> MATLAB
   <li> ARM
   <li> Arduino
-</ul>
+</ul></div>
+  <div float="right"><p>&nbsp;<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=AminLari&theme=dark&layout=compact" width="400" /></p></div>
+  </div>
 
 ## Here are some useful links:
 
@@ -25,6 +35,10 @@
 [Email]: mohamadamin.lari@gmail.com
 [linkedin]: https://www.linkedin.com/in/aminlari/
 [Researchgate]: https://www.researchgate.net/profile/Mohammadamin-Lari
+</body>
+
+</html>
+
 
 
 <!--
