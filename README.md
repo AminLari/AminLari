@@ -30,7 +30,7 @@
 
   [<img align="left" alt="Amin Lari | LinkedIn" height="25px" src="https://www.pikpng.com/pngl/b/266-2662398_linkedin-logo-png-clipart.png" />][linkedin]
   [<img align="left" alt="Amin Lari | Gmail" height="25px" src="https://mailmeteor.com/logos/assets/PNG/Gmail_Logo_256px.png" />][Email]
-  [<img align="left" alt="Amin Lari | Researchgate" height="25px" src="https://cdn.freelogovectors.net/wp-content/uploads/2021/02/researchgate-logo-freelogovectors.net_.png" />][Researchgate]
+  
 
 [Email]: mohamadamin.lari@gmail.com
 [linkedin]: https://www.linkedin.com/in/aminlari/
