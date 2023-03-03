@@ -1,5 +1,5 @@
 # Hi! 👋
-:books: My name is Mohammadamin Lari. I'm an Electrical Engineering student at the Amirkabir University of Technology. <br> <br>
+:books: My name is Mohammadamin Lari. I'm a Master of Applied Science student in Electrical and Computer Engineering at the University of British Columbia. <br> <br>
 :computer: Some of my programming skills are:
 <!DOCTYPE html>
 <html>
