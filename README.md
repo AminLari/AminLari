@@ -11,9 +11,10 @@
 <div>
   <ul>
   <li> Python
-  <li> C++
+  <li> C/C++
   <li> Java
   <li> MATLAB
+  <li> R
   <li> ARM
   <li> Arduino
   <li>  Web development 
