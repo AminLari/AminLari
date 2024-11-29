@@ -28,7 +28,7 @@
   <p align="center">
   <img src="https://github-readme-stats.vercel.app/api?username=AminLari&theme=dark&show_icons=true&count_private=true&hide_rank=true" />
   &nbsp;
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=AminLari&theme=dark&layout=compact" width="352" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=AminLari&theme=dark&layout=compact" width="355" />
 </p>
 
 ## Here are some useful links:
