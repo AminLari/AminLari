@@ -23,9 +23,13 @@
       <li> CSS3
       <li> JavaScript
     </ul>
-</ul></div>
-  <div float="right"><p>&nbsp;<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=AminLari&theme=dark&layout=compact" width="400" /></p></div>
-  </div>
+
+## General Stats:
+  <p align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=AminLari&theme=dark&show_icons=true&count_private=true&hide_rank=true" />
+  &nbsp;
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=AminLari&theme=dark&layout=compact" width="352" />
+</p>
 
 ## Here are some useful links:
 
