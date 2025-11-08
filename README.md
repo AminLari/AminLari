@@ -17,6 +17,7 @@
   <li> R
   <li> ARM
   <li> Arduino
+  <li> PLC Programming
   <li>  Web development 
     <ul>
       <li> HTML5
