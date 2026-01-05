@@ -27,9 +27,9 @@
 
 ## General Stats:
   <p align="center">
-  <img src="https://github-readme-stats-77c8-git-main-aminlaris-projects.vercel.app/api?username=AminLari&theme=dark&show_icons=true&count_private=true&hide_rank=true" />
+  <img src="https://github-readme-stats-iota-opal.vercel.app/api?username=AminLari&theme=dark&show_icons=true&count_private=true&hide_rank=true" />
   &nbsp;
-  <img src="https://github-readme-stats-77c8-git-main-aminlaris-projects.vercel.app/api/top-langs/?username=AminLari&theme=dark&layout=compact" width="355" />
+  <img src="https://github-readme-stats-iota-opal.vercel.app/api/top-langs/?username=AminLari&theme=dark&layout=compact" width="355" />
 </p>
 
 ## Here are some useful links:
