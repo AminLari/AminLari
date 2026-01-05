@@ -38,8 +38,8 @@
   [<img align="left" alt="Amin Lari | Gmail" height="25px" src="https://mailmeteor.com/logos/assets/PNG/Gmail_Logo_256px.png" />][Email]
   
 
-[Email]: mohamadamin.lari@gmail.com
-[linkedin]: https://www.linkedin.com/in/aminlari/
+[Email]: mark.lari.work@gmail.com
+[linkedin]: https://www.linkedin.com/in/aminlari
 [Researchgate]: https://www.researchgate.net/profile/Mohammadamin-Lari
 </body>
 
