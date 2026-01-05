@@ -26,7 +26,6 @@
     </ul>
 
 ## General Stats:
-[![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=AminLari)](https://github.com/anuraghazra/github-readme-stats)
   <p align="center">
   <img src="https://github-readme-stats.vercel.app/api?username=AminLari&theme=dark&show_icons=true&count_private=true&hide_rank=true" />
   &nbsp;
